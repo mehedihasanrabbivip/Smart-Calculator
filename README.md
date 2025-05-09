@@ -14,4 +14,5 @@ A smart calculator that performs basic arithmetic operations like addition, subt
 - JavaScript
 
 ## Live Demo
-[Click here to view](https://your-live-link.com)
+[Click here to view](https://mehedihasanrabbivip.github.io/Smart-Calculator/
+)
